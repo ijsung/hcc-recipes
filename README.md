@@ -46,5 +46,7 @@ Change the line
 to
 
 
-```PREFIX=/usr/local```
+``` PREFIX=/usr/local```
+
+
 
